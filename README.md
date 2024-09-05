@@ -1,3 +1,7 @@
-# Start heared with a hash
-
-description here
+# DEMO PROGRAM
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+return 0;
+}
